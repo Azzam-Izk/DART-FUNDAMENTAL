@@ -20,5 +20,5 @@ void main(List<String> args) {
   print(d); // output 4
 
   var f = 0;
-  f += 5; // output = 5
+  print(f += 5); // output = 5
 }
